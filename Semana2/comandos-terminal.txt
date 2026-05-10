@@ -1,0 +1,6 @@
+mkdir
+cd
+touch preguntas semana2.txt
+touch comandos-terminal.txt
+ls
+git push
