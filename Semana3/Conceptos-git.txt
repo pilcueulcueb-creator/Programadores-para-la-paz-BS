@@ -1,0 +1,3 @@
+Repositorio: Es el lugar donde se almacena el código y guarda la información que se ha trabajado. El reppsitorio permite desarrollar en colaboración y de manera simultanea con otras personas, también puede ser publica o privada. 
+Commit: es el comando que confirma y captura una instantanea de los cambios realizados; el cual da paso a registrar o guardar con un mensaje descriptivo el tema que se subira al repositorio remoto. 
+Push: se usa para guardar los cambios y subirlos del repositorio local al repositorio remoto. 
