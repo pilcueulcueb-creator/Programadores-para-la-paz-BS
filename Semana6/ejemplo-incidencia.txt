@@ -1,0 +1,1 @@
+{"mensaje":"Incidencia registrada","tipo":"Iluminación pública","descripción":"La comunidad reporta que una lámpara del parque no funcióna desde hace varios días"} 
