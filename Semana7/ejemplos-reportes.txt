@@ -1,0 +1,1 @@
+{"mensaje":"Reporte registrado","reporte":{"id":2,"tipo":"Ambiente","descripcion":"Acumulación de residuos en una zona comunitaria"}}
