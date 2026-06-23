@@ -1,0 +1,3 @@
+1: Linux localhost 4.19.111-26004678 #1 SMP PREEMPT Wed May 24 12:48:28 KST 2023 aarch64 Android
+2: u0-a231
+3: Es útil conocer la información del sistema para entender el funcionamiento del servidor y cómo se puede trabajar eficazmente de acuerdo a lo que nos permite el sistema; conocer esa información es necesarios para interactuar y estar seguros de los pasos que se estan dando para manejar un servidor. 

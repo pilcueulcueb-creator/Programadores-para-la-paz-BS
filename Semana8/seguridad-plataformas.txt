@@ -1,0 +1,5 @@
+1: Proteger y respaldar la información de la comunidad. 
+2: No compartir los datos confidenciales.
+3: Hacer segumiento al acceso a enlaces o medios que pueden ser inseguros.
+4: Conectarse a fuentes seguras 
+5: Compartir datos seguros y actualizados. 
