@@ -1,0 +1,7 @@
+1. Cuando se ejecuta node server.js se analiza el código y se muestra la petición descrita en el archivo server.js.
+2. Servidor ejecutándose en puerto 3000 
+3. Se ejecuta el código y se obtiene la respuesta
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

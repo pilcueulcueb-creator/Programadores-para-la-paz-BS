@@ -1,0 +1,5 @@
+1 Sistema operativo: es la base fundamental que permite el funcionamiento de forma ordenada de un dispositivo o el computador.
+2 Node.js: es el entorno que permite la ejecución del código.
+3 Aplicación server.js: es el archivo que inicia la ejecución de las tareas para que luego sean escuchadas y analizadas.
+4 Puerto: un puerto es una puerta lógica por donde escucha un servicio. 
+5 Logs: es el archivo que registra cronológicamente las acciones, los tiempos y los cambios que ocurre en el sistema. 
