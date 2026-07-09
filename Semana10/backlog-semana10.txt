@@ -1,0 +1,5 @@
+1: Como ciudadano quiero solicitar el acompañamiento del equipo veedor para hacer seguimiento al desarrollo del proyecto comunitario.
+2: Como ciudadano quiero reportar la situación ocurrida la semana anterior para que la entidad responsable proceda a revisar.
+3: Como miembro del grupo veedor quiero registrar las evidencias para que todo el equipo establezca un dialogo con la comunidad.
+4: Como miembro del equipo veedor quiero consultar el ultimo reporte para hacer el seguimiento correspondiente. 
+5: Como ciudadano quiero reportar las evidencias de los hechos para que se active una ruta de seguimiento en la conunidad. 

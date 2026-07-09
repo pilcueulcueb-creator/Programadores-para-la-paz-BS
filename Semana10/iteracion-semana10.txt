@@ -1,0 +1,4 @@
+Las tareas que se realizan primero seria lograr que el formulario funcione y priorizar las tareas.
+Son importantes porque permiten realizar las tareas ordenadamente y avanzar poco a poco de acuerdo a la prioridad de las tareas. 
+Que una tarea este terminada significa que se comprobo su funcionamiento y aparece registrada en git hub. 
+

@@ -1,0 +1,8 @@
+Evento: Evidencias registradas por el equipo veedor. 
+
+Acción: enviar mensaje a Telegram
+
+Mensaje: “Revisar las evidencias registradas para el seguimiento correspondiente"
+
+No se debe enviar o compartir información sensible, datos personales como nombres, documentos de identidad, direcciones o  teléfonos, tampoco contraseñas o tokens personales. 
+
