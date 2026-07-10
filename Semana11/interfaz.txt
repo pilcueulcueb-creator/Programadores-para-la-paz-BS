@@ -1,0 +1,4 @@
+La interfaz tendría una sección para crear una nueva causa comunitaria y permitir establecer un título, la descripción y la fecha.
+Se debe contar con un contador que evidencie los apoyos a la causa.
+La interfaz ofrece seguridad y confianza en el manejo de la información.
+  

@@ -1,0 +1,3 @@
+1:El login permite la identificación y la validación de los datos para permitir el acceso a los servicios que tiene la aplicación, el login es un paso que brinda la seguridad en el acceso a la información.
+2:Algunas rutas deben estar protegidas porque es necesario respaldar la protección de la información. Las rutas que estan protegidas permiten el acceso de personas autorizadas y responsables de los datos que contiene.
+3:No se recomienda publicar o exponer contraseñas, claves, tokens, datos personales, teléfonos, direcciones o información comunitaria sensible. 
