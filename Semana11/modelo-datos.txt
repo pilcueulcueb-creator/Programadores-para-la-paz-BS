@@ -1,3 +1,22 @@
-1. Entidad
+Entidad: tareas comunitarias
 
-2. Entidad 
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar las tareas establecidas en la planeación comunitaria. 
+
+
+Entidad: responsabilidades
+
+Campos principales:
+- id
+- tareas comunitarias _id
+- usuario
+- fecha
+
+Propósito: 
+Registrar el cumplimiento de las responsabilidades. 
