@@ -1,0 +1,12 @@
+Causa: sirve para activar una solicitud o necesidad comunitaria. 
+id
+titulo "Solicitud de acompañamiento en la reforestación en el lugar donde nace el agu
+descripcion "La comunidad solicita el acompañamiento en el trabajo de reforestación de los espacios que nutren de agua a la población, igualmente se hace el llamado a cuidar y proteger estos importantes lugares. 
+fecha
+
+Apoyo: registra al apoyo de un ciudadano a la causa
+id
+causa_id
+nombre: "apoyo ciudadano registrado"
+comentario: "Resalto la importancia de cuidar y preservar los espacios que le regalan vida a la comunidad" 
+fecha

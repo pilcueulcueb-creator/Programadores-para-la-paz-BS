@@ -1,0 +1,4 @@
+Evento: nuevo reporte registrado
+Mensaje: “Se registró un nuevo reporte, revisar su contenido”
+Información que no debe enviarse: datos personales como cédulas, teléfonos, claves o direcciones; tampoco comentarios sensibles, información privada no protegida, contraseñas o tokens personales. 
+

@@ -1,0 +1,5 @@
+1. Un ciudadano envía un reporte
+2. El reporte se registra en la base de datos
+3. Se envía un aviso del nuevo reporte 
+4. Se empieza a hacer seguimiento al reporte
+5. Se coordinan acciones de seguimiento  
